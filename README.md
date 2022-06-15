@@ -1,7 +1,7 @@
-### Key-Logger
+# Key-Logger
 >Created By: Pragam Gupta
 
-# Features:
+### Features:
 >Easy to Install
 
 >Easy to use
