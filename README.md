@@ -21,11 +21,11 @@ git clone https://github.com/Pragam1/Key-Logger
 ```
 cd Key-Logger
 ```
-```
 >For windows
 ```
 python keylogger.py
 ```
+
 >For Linux
 ```
 python3 keylogger.py
