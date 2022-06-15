@@ -23,16 +23,13 @@ cd Key-Logger
 ```
 ```
 >For windows
-
 ```
 python keylogger.py
 ```
 >For Linux
-
 ```
 python3 keylogger.py
 ```
-
 ## Contacts:
 
 >Instagram
