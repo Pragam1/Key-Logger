@@ -12,7 +12,7 @@
 
 >Easy to execute
 
-#Installation :
+# Installation :
 >clone via git clone
 
 ```
