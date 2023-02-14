@@ -35,6 +35,9 @@ python3 keylogger.py
 >Instagram
 https://instagram.com/pragam.gupta
 
+>Linkedin
+https://www.linkedin.com/in/pragam-gupta-115057203/
+
 >Github
 https://github.com/Pragam1
 
